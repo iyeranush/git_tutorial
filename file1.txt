@@ -1,6 +1,9 @@
+Take2
 What is this new file?
 What is this file again?
+Take2
 Added by branch1
+Take2
 This is a new file
 
 
