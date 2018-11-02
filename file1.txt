@@ -2,3 +2,6 @@ What is this new file?
 What is this file again?
 Added by branch1
 This is a new file
+
+
+Add new lines
