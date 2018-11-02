@@ -1,2 +1,4 @@
+What is this new file?
+Added by branch1
 This is a new file
 What is this file again?
